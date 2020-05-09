@@ -10,7 +10,7 @@ After creating figures, you can click on "Undo" to remove the recently created f
 
 Also, you can click on "Redo" to recreate the recently created figure --> This works exactly like Ctrl+Y.
 
-Below are the design patterns used in this project throughout -
+Design Patterns used in this project are -
 
 --> Controller Pattern (Creating controller class to perform user actions)
 
@@ -22,6 +22,7 @@ Below are the design patterns used in this project throughout -
 
 
 --> Iterator Pattern (Simply using Java's Iterator class methods to iterate over collections)
+
 --> Composite Pattern (Creating a hiehrachical structure of similar functioning objects)
 
 --> Command Pattern (To encapsulate all the data and operations in object for a user command and decoupling producer-consumer)
